@@ -6,7 +6,7 @@
   "author": "Daniel Gasienica <daniel@gasienica.ch>",
   "scripts": {
     "test": "echo 'yay we ran some tests!'"
-  }
+  },
   "dependencies": {
     "express": "3.2.4"
   }
