@@ -55,6 +55,8 @@ Node.js Hello World on CentOS using [docker][].
 
 ## Acknowledgements
 
+
+
 Many thanks to @shykes and @unclejack for their support on IRC as well as the
 @dotCloud team for docker.
 
